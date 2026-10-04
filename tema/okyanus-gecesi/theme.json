@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Okyanus Gecesi",
+      "description": "Derin maviler ve ay isigi ile sakin bir gece denizi.",
+      "palette": {
+        "frame": "#0A1A2F",
+        "toolbar": "#0F2540",
+        "text": "#D6ECFF",
+        "tabActive": "#173A5E",
+        "urlbar": "#061223",
+        "accent": "#4FC3F7"
+      }
+    }
+  ]
+}

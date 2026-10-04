@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Crimson Dusk",
+      "description": "Şarap rengi alacakaranlık.",
+      "palette": {
+        "frame": "#1a0510",
+        "toolbar": "#2a0a1c",
+        "text": "#ffe8f1",
+        "tabActive": "#5c1233",
+        "urlbar": "#380d25",
+        "accent": "#f43f5e"
+      }
+    }
+  ]
+}

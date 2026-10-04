@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Toxic Lime",
+      "description": "Koyu zeytin zemin, asit yeşili vurgu.",
+      "palette": {
+        "frame": "#0a0f00",
+        "toolbar": "#121a02",
+        "text": "#f0ffd0",
+        "tabActive": "#243300",
+        "urlbar": "#172200",
+        "accent": "#a3e635"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Sakura Kutusu",
+      "description": "Kiraz cicegi pembenin acik ve zarif tonlari.",
+      "palette": {
+        "frame": "#FBE4EC",
+        "toolbar": "#F6CEDA",
+        "text": "#571C36",
+        "tabActive": "#F0B4C9",
+        "urlbar": "#FFF5F9",
+        "accent": "#E85D8F"
+      }
+    }
+  ]
+}

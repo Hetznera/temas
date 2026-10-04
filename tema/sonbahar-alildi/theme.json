@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Sonbahar Alacakaranligi",
+      "description": "Sicak toprak tonlariyla sonbaharin alacakaranligini hissettirir.",
+      "palette": {
+        "frame": "#3B2314",
+        "toolbar": "#4E2E16",
+        "text": "#F5E6D3",
+        "tabActive": "#6B3E1E",
+        "urlbar": "#2E1A0E",
+        "accent": "#E8833A"
+      }
+    }
+  ]
+}

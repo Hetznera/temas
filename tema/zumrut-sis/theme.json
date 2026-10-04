@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Zumrut Sis",
+      "description": "Yesilin koyu ve sisli tonlariyla gizemli orman kisisi.",
+      "palette": {
+        "frame": "#0E2420",
+        "toolbar": "#14302A",
+        "text": "#D2F0E6",
+        "tabActive": "#1B453D",
+        "urlbar": "#081713",
+        "accent": "#3ECFAF"
+      }
+    }
+  ]
+}

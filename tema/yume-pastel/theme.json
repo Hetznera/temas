@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Yume Pastel",
+      "description": "Rengarenk pastel tonlarla parlak ve isiltili bir gorunum.",
+      "palette": {
+        "frame": "#F6E3FA",
+        "toolbar": "#EBD1F5",
+        "text": "#4A1552",
+        "tabActive": "#DEC2EE",
+        "urlbar": "#FFF4FD",
+        "accent": "#C44DDE"
+      }
+    }
+  ]
+}

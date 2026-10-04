@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Rose Gold",
+      "description": "Pudra ve roze altın, açık tema.",
+      "palette": {
+        "frame": "#f4dcd6",
+        "toolbar": "#fbefec",
+        "text": "#4a2b2b",
+        "tabActive": "#ffffff",
+        "urlbar": "#ffffff",
+        "accent": "#b76e79"
+      }
+    }
+  ]
+}

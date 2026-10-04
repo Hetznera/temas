@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Lavanta Yagi",
+      "description": "Morun yumusak ve huzurlu tonlariyla gece gunduz uyumu.",
+      "palette": {
+        "frame": "#2D1B4E",
+        "toolbar": "#3A2560",
+        "text": "#EAE0FF",
+        "tabActive": "#4A3180",
+        "urlbar": "#221240",
+        "accent": "#B39DDB"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Mint Chocolate",
+      "description": "Bitter çikolata ve nane.",
+      "palette": {
+        "frame": "#1c1210",
+        "toolbar": "#2a1c18",
+        "text": "#e6fff3",
+        "tabActive": "#3d2a24",
+        "urlbar": "#241613",
+        "accent": "#5eead4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Retro Terminal",
+      "description": "Fosfor yesili parlakliginda karanlik eski bilgisayar havasi.",
+      "palette": {
+        "frame": "#0A0F0A",
+        "toolbar": "#0F1A0F",
+        "text": "#9CFFA8",
+        "tabActive": "#14301A",
+        "urlbar": "#050805",
+        "accent": "#39FF64"
+      }
+    }
+  ]
+}

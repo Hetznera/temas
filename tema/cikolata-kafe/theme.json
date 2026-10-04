@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Cikolata Kafe",
+      "description": "Krem ve sutlu kahve tonlariyla sicak mekani hissettirir.",
+      "palette": {
+        "frame": "#F3E5D3",
+        "toolbar": "#E8D2B8",
+        "text": "#3E2415",
+        "tabActive": "#D9BC97",
+        "urlbar": "#FBF3E8",
+        "accent": "#A0673B"
+      }
+    }
+  ]
+}

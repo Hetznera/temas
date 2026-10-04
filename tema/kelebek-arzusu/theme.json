@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Kelebek Arzusu",
+      "description": "Gokkusagi moru ile acik ve hayal gibi bir tema.",
+      "palette": {
+        "frame": "#E9E2FA",
+        "toolbar": "#D8CDF4",
+        "text": "#372561",
+        "tabActive": "#C6B9EC",
+        "urlbar": "#F7F4FE",
+        "accent": "#7C5CD6"
+      }
+    }
+  ]
+}

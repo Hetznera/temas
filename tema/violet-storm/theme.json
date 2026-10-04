@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Violet Storm",
+      "description": "Fırtına moru, parlak lila vurgu.",
+      "palette": {
+        "frame": "#120a24",
+        "toolbar": "#1d1138",
+        "text": "#f1e9ff",
+        "tabActive": "#3b1d7a",
+        "urlbar": "#26154a",
+        "accent": "#c084fc"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Pembe Kozmetik",
+      "description": "Pastel lila ve pembe makyaj tonlariyla sirli hava.",
+      "palette": {
+        "frame": "#F9E2F2",
+        "toolbar": "#F2CDE9",
+        "text": "#5A1450",
+        "tabActive": "#ECBCE0",
+        "urlbar": "#FFF3FB",
+        "accent": "#D94DB8"
+      }
+    }
+  ]
+}

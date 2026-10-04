@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Gul Sakagi",
+      "description": "Acik pembe tonlarla zarif ve yumusak bir arayuz.",
+      "palette": {
+        "frame": "#F7DCE3",
+        "toolbar": "#F2CDD8",
+        "text": "#4A1A2E",
+        "tabActive": "#EFB9C9",
+        "urlbar": "#FFF0F4",
+        "accent": "#D6336C"
+      }
+    }
+  ]
+}

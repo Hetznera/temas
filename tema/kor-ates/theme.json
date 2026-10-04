@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Kor Ates",
+      "description": "Kor toplari gibi karanlik zemin uzerinde sicak kirmizi vurgu.",
+      "palette": {
+        "frame": "#1F0D0D",
+        "toolbar": "#2A1212",
+        "text": "#FFD9C9",
+        "tabActive": "#401B1B",
+        "urlbar": "#150808",
+        "accent": "#FF5A3C"
+      }
+    }
+  ]
+}

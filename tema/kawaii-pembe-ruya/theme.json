@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Kawaii Pembe Ruya",
+      "description": "Koseli pembe tonlariyla tatli ve enerjik bir anime havasi.",
+      "palette": {
+        "frame": "#FFD6E8",
+        "toolbar": "#FFC2DE",
+        "text": "#5A1A3C",
+        "tabActive": "#FFA8D0",
+        "urlbar": "#FFF0F7",
+        "accent": "#FF5CA8"
+      }
+    }
+  ]
+}

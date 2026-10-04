@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Monochrome Ink",
+      "description": "Beyaz kâğıt, siyah mürekkep.",
+      "palette": {
+        "frame": "#f2f2f2",
+        "toolbar": "#ffffff",
+        "text": "#111111",
+        "tabActive": "#ffffff",
+        "urlbar": "#f6f6f6",
+        "accent": "#000000"
+      }
+    }
+  ]
+}

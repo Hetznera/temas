@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Yildiz Sarkisi",
+      "description": "Derin gece laciverti uzerinde parlak yildiz mavisi.",
+      "palette": {
+        "frame": "#0D1430",
+        "toolbar": "#151D42",
+        "text": "#DEE6FF",
+        "tabActive": "#222C5E",
+        "urlbar": "#080D22",
+        "accent": "#6E8BFF"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Deep Space",
+      "description": "Derin uzay laciverti, indigo vurgu.",
+      "palette": {
+        "frame": "#05060f",
+        "toolbar": "#0a0d1f",
+        "text": "#e4e8ff",
+        "tabActive": "#161b3d",
+        "urlbar": "#0d1129",
+        "accent": "#818cf8"
+      }
+    }
+  ]
+}

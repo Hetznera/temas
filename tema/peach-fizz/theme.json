@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Peach Fizz",
+      "description": "Şeftali ve turuncu, ferah açık tema.",
+      "palette": {
+        "frame": "#ffe2cf",
+        "toolbar": "#fff3ea",
+        "text": "#5a2d16",
+        "tabActive": "#ffffff",
+        "urlbar": "#ffffff",
+        "accent": "#f97316"
+      }
+    }
+  ]
+}

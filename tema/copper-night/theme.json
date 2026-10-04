@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Copper Night",
+      "description": "Gece siyahı üzerinde bakır tonları.",
+      "palette": {
+        "frame": "#140b06",
+        "toolbar": "#201209",
+        "text": "#f5e6d8",
+        "tabActive": "#3d2210",
+        "urlbar": "#2a170b",
+        "accent": "#e08a4b"
+      }
+    }
+  ]
+}

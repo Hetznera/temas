@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Ice Cave",
+      "description": "Buz mağarası mavisi.",
+      "palette": {
+        "frame": "#0b1a24",
+        "toolbar": "#10283a",
+        "text": "#e8f8ff",
+        "tabActive": "#1b4a66",
+        "urlbar": "#0d2233",
+        "accent": "#67e8f9"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Gece Turkuazi",
+      "description": "Turkuaz parlakligi ve murek karanligiyla cesur bir tema.",
+      "palette": {
+        "frame": "#0C1B1E",
+        "toolbar": "#12282D",
+        "text": "#D2F6F2",
+        "tabActive": "#1B3B42",
+        "urlbar": "#071214",
+        "accent": "#2ED3C6"
+      }
+    }
+  ]
+}

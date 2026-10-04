@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Buzul Esigi",
+      "description": "Buz mavisinin soguk ve temiz tonlariyla ferah gorunum.",
+      "palette": {
+        "frame": "#DCEFF5",
+        "toolbar": "#C4E4EE",
+        "text": "#0F2A38",
+        "tabActive": "#AED9E6",
+        "urlbar": "#EEF8FB",
+        "accent": "#1E88A8"
+      }
+    }
+  ]
+}

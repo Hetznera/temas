@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Alev Moru",
+      "description": "Derin mor zeminde neon fuksiya izleri birakan neon gece.",
+      "palette": {
+        "frame": "#231033",
+        "toolbar": "#2E1544",
+        "text": "#F3E0FF",
+        "tabActive": "#3D1E5A",
+        "urlbar": "#180A28",
+        "accent": "#E040FB"
+      }
+    }
+  ]
+}

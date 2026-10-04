@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Limonata Sirkesi",
+      "description": "Yaz gunlerini hatirlatan taze sari ve limon.",
+      "palette": {
+        "frame": "#FFF3C4",
+        "toolbar": "#FFE99A",
+        "text": "#4A3A08",
+        "tabActive": "#FFDD6E",
+        "urlbar": "#FFFBEA",
+        "accent": "#F4B400"
+      }
+    }
+  ]
+}

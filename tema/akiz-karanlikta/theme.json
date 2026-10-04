@@ -1,0 +1,18 @@
+{
+  "format": "foxfirefox-theme",
+  "version": 1,
+  "themes": [
+    {
+      "name": "Akiz Karanlikta",
+      "description": "Gece gokyuzu mavisi ve ay isikli pembe anime havasi.",
+      "palette": {
+        "frame": "#1B2340",
+        "toolbar": "#252F55",
+        "text": "#E3E9FF",
+        "tabActive": "#35406E",
+        "urlbar": "#121831",
+        "accent": "#8FA8FF"
+      }
+    }
+  ]
+}
